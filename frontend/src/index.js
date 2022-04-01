@@ -1,8 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
+
+// App
 import App from "./App";
 
+// REDUX
 import { Provider } from "react-redux";
 import store from "./Redux/store";
 

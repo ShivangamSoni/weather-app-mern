@@ -1,3 +1,4 @@
+// Styled Components
 import { Container, BrandName } from "./StyledComponents";
 
 const Logo = () => {

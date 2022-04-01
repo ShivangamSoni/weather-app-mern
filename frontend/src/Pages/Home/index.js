@@ -1,5 +1,7 @@
+// Styled Components
 import { Container, Left, Right } from "./StyledComponents";
 
+// Components
 import TodayForecast from "../../Containers/TodayForecast";
 import WeeklyForecast from "../../Containers/WeeklyForecast";
 import WeatherMap from "../../Containers/WeatherMap";

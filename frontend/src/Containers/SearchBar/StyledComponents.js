@@ -10,20 +10,6 @@ export const Container = styled.div`
   padding: 10px;
 `;
 
-export const SearchSelect = styled.select`
-  background-color: hsl(0, 100%, 100%, 0.5);
-  border: none;
-  outline: none;
-  font-size: 14px;
-  padding: 0.5em 0;
-  transition: all 300ms linear;
-
-  &:focus,
-  &:hover {
-    background-color: hsl(0, 100%, 100%, 0.8);
-  }
-`;
-
 export const SearchField = styled.input`
   appearance: none;
   border: none;

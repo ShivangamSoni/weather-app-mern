@@ -1,3 +1,4 @@
+// Components
 import Logo from "../../Components/Logo";
 import SearchBar from "../SearchBar";
 

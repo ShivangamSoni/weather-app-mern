@@ -1,6 +1,10 @@
+// Styled Components
 import { Container, Message, Close } from "./StyledComponents";
 
+// Hooks
 import { useDispatch, useSelector } from "react-redux";
+
+// Redux Action Creators
 import { hideNotification } from "../../Redux/Site/ActionCreator";
 
 const Notification = () => {
